@@ -64,3 +64,9 @@ The knob configuration must be set so that the following display is seen on the 
 ## Superimposing Effects
 The effects created by the different knobs (see section on **Knobs**) can be combined with each other in any manner without interference. An example can be seen at the end of the linked video.
 
+## Contributors
+- [Anushka Kulkarni](https://github.com/anushka102030)
++ [Rishil Patel](https://github.com/r15hil)
+* [Aaman Rebello](https://github.com/aamanrebello)
+- [Victor Florea](https://github.com/VFjr)
+
